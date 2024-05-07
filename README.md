@@ -1,5 +1,7 @@
 # Guia para o treinamento dos voluntários do projeto Wegia
 Aqui serão disponibilizadas informações e links que podem ser utilizados durante o treinamento dos voluntários. A intenção deste documento é reunir sites de cursos gratuitos que podem ser usados pelos voluntários para aprimorar suas habilidades.
+
+Este repositório foi criado com o objetivo de ser desenvolvido colaborativamente. Portanto, aqueles que tiverem sugestões de sites de cursos gratuitos ou tópicos podem entrar em contato ou enviar uma pull request.
 ## Sites de cursos gratuitos
 - [Curso em vídeo](https://www.cursoemvideo.com/cursos/) - **sem certificado**
 - [Ginead](https://www.ginead.com.br/cursos/de/informatica) - **sem certificado**
