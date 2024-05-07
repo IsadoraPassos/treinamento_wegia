@@ -1,4 +1,4 @@
-# Guia para o treinamento dos voluntários do projeto wegia
+# Guia para o treinamento dos voluntários do projeto Wegia
 Aqui serão disponibilizadas informações e links que podem ser utilizados durante o treinamento dos voluntários. A intenção deste documento é reunir sites de cursos gratuitos que podem ser usados pelos voluntários para aprimorar suas habilidades.
 ## Sites de cursos gratuitos
 - [Curso em vídeo](https://www.cursoemvideo.com/cursos/) - **sem certificado**
@@ -7,7 +7,7 @@ Aqui serão disponibilizadas informações e links que podem ser utilizados dura
 - [Workover](https://workover.com.br/)
 - [EAD Education](https://ead.education/)
 - [Jornada do Dev](https://jornadadodev.com.br/)
-- [Alison](https://alison.com/pt-BR/cursos/ele) **em inglês**
+- [Alison](https://alison.com/pt-BR/cursos/ele) - **em inglês**
 
 ## Cursos recomendados para iniciantes
 Esses são os temas essenciais para colaborar no projeto, acompanhados de sugestões de cursos em cada área. Os voluntários têm a liberdade de selecionar os cursos que desejam, embora seja aconselhável seguir essa sequência para aqueles com menos experiência. Outras plataformas de cursos ou o YouTube também são opções válidas. O crucial é adquirir uma compreensão básica em todos os temas para iniciar o projeto. Assim, aqueles com conhecimento prévio podem avançar para o próximo tópico. Não é obrigatório obter certificados de conclusão, mas a participação ativa dos voluntários é fundamental.
