@@ -2,6 +2,8 @@
 
 Este guia tem como objetivo ajudar novos participantes a configurar e rodar o projeto Wegia desenvolvido com o Laravel em seus computadores. Siga as instruções abaixo para garantir que o ambiente de desenvolvimento esteja corretamente configurado.
 
+[Vídeo com o passo a passos](https://youtu.be/sCqkYScIWI8)
+
 ## 1. Configurações Necessárias 
 **Não é necessário para quem usar as maquinas virtuais**
 
